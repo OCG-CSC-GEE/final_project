@@ -1,1 +1,1 @@
-<font size ='12'> Remote Sensing with Google Earth Engine</font>
+<font size ='32'> Remote Sensing with Google Earth Engine</font>
