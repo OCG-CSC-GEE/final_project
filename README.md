@@ -1,4 +1,4 @@
-__strong__ Remote Sensing with Google Earth Engine
+# __Remote Sensing with Google Earth Engine__
 ## Ginny Cousens & Albert Larson
 ### University of Rhode Island | OCG504 | CSC593
 #### Prof. Brice Loose | Fall 2020 | Final Project
