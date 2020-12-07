@@ -4,3 +4,4 @@
 #### Prof. Brice Loose | Fall 2020 | Final Project
 
 <br><br>
+For the deliverable of final project for our programming for scientists class, we elected to spend some time familiarizing ourselves with the Google Earth Engine platform. 
