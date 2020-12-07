@@ -1,6 +1,6 @@
 # __Remote Sensing with Google Earth Engine__
 ## Ginny Cousens & Albert Larson
-### University of Rhode Island | OCG504 | CSC593
+### University of Rhode Island | OCG404 | CSC593
 #### Prof. Brice Loose | Fall 2020 | Final Project
 
 <br><br>
